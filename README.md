@@ -2,7 +2,7 @@
 
 ### 📚 Descrição
 Esse projeto simula um gerador de senha aleatória que pode ser utilizado em diversas situações, com o número de caracteres que você escolher. <br>
-Desenvolvido em HTML, CSS e JavaScript.
+Desenvolvido em HTML, CSS e JavaScript, para fixação de conteúdo.
 
 ### 📁 Acesso
 Hospedado no Netlify <br>
